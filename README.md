@@ -1,4 +1,6 @@
-﻿# Weather Rainmeter skin
+﻿![Weather skin](screenshot.png)
+
+# Weather Rainmeter skin
 
 Rainmeter weather card fed by Open-Meteo via a local toolkit.
 
@@ -18,3 +20,4 @@ written by a local toolkit; no credentials or account data live here.
    The skin expects its toolkit under `%ToolsRoot%\weather`.
    The Lua helpers, if present, have a `PATH` constant near the top with
    the same value in forward-slash form.
+
